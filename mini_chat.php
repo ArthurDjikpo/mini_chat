@@ -1,3 +1,6 @@
+<!--
+	définition de l'entete
+-->
 <?php
 	$title = MiniChat;
 	$css = "css/index.css";
@@ -46,7 +49,9 @@
 	}
 	$affichage->closeCursor();
 ?>
-
+<!--
+	définition de la fin du code
+-->
 <?php
 	require('fin.php')
 ?>
